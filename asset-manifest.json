@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sharath-io.github.io/csb-j5eec/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sharath-io.github.io/csb-j5eec/static/js/main.fdc25fc0.chunk.js",
+    "main.js.map": "https://sharath-io.github.io/csb-j5eec/static/js/main.fdc25fc0.chunk.js.map",
+    "runtime-main.js": "https://sharath-io.github.io/csb-j5eec/static/js/runtime-main.fe24efe4.js",
+    "runtime-main.js.map": "https://sharath-io.github.io/csb-j5eec/static/js/runtime-main.fe24efe4.js.map",
+    "static/js/2.bb6869b7.chunk.js": "https://sharath-io.github.io/csb-j5eec/static/js/2.bb6869b7.chunk.js",
+    "static/js/2.bb6869b7.chunk.js.map": "https://sharath-io.github.io/csb-j5eec/static/js/2.bb6869b7.chunk.js.map",
+    "index.html": "https://sharath-io.github.io/csb-j5eec/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sharath-io.github.io/csb-j5eec/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.bb6869b7.chunk.js.LICENSE.txt": "https://sharath-io.github.io/csb-j5eec/static/js/2.bb6869b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe24efe4.js",
+    "static/js/2.bb6869b7.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fdc25fc0.chunk.js"
+  ]
+}
